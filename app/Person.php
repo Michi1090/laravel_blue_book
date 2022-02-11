@@ -5,7 +5,6 @@ namespace App;
 use App\Scope\ScopePerson;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Support\Arr;
 
 class Person extends Model
 {
